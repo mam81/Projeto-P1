@@ -1,0 +1,38 @@
+Comer menos açúcar 
+23052017 1030 Reunião com Huguinho, Luizinho e Zezinho. @Skype +Pesquisa 
+(B) Terminar a especificação do projeto de IF968. +IF968 
+(B) Publicar a especificação do projeto de IF968 terminada. +IF968 
+(A) Corrigir provas de IF968 +IF968 
+23052017 (A) Ler artigo IST. +Serviço 
+2330 Dormir cedo @Casa 
+(B) Revisar artigo IST +Service 
+(B) Revisar artigos SBES +Service 
+(B) Revisar artigos SBES Education +Service 
+(B) Revisar artigos SBES Insightful Ideas +Service 
+(B) Revisar artigos SBLP +Service 
+(D) Read "Optimizing energy consumption of GUIs in android apps: A multi-objective approach." 
+(A) Revisar o projeto para ver se tudo está correto +Projeto 
+21062019 (C) Fazer upload do arquivo no github do projeto +Projeto 
+(B) Todo segunda ter que fazer uma tarefa continuada de ISI +exercicio 
+14062019 2130 (z) assistir o jogo da seleção brasileira @casa +jogo 
+(A) Estudar programação @Material_digital +estudo 
+(D) Estudar uma linguagem de programação nova +estudo 
+18062019 1900 Apresentar trabalho de ISI @Cin +Graduação 
+21062019 1700 Apresentar trabalho de Adm @Cin +Graduação 
+10022001 1130 (v) comer manteiga com pao @pao +projeto 
+10022001 1020 (v) comprar manteiga @padaria +alimentação 
+1130 comer o salgado 
+1030 comprar o salgado 
+10102019 2200 (a) ir ao club +diversão 
+10102019 1500 (A) ir à farmacia @Saúde 
+01072020 1500 (X) reunião da empresa + projeto @empresa 
+(g) comer pao 
+(e) preparar o pao 
+22012000 0830 (Z) ir ao mercado comprar frutas 
+22012000 0820 (Z) pegar dinheiro para ir ao mercado 
+10022001 comprar medicamentos 
+comer muita lasanha 
+10032001 terminar os medicamentos 
+segundas feiras boas são com aulas de progamação 
+1001 (B) sair para o trabalho +trabalho 
+0900 (F) verificar a agenda de compromissos +trabalho 
